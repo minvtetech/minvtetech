@@ -1,4 +1,4 @@
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=minvtetech&label=the end&color=red"></p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=minvtetech&label=minutes&color=41537c"></p>
 
 <!--
 **minvtetech/minvtetech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

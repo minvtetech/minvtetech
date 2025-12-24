@@ -1,16 +1,15 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=minvtetech&label=minutes&color=41537c"></p>
 
-<!--
-**minvtetech/minvtetech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img
+  src="https://github.com/user-attachments/assets/a26abcdc-efba-4007-bd18-674339d27e81"
+  width="500"
+  align="left"
+  />
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  <img
+  src="https://github.com/user-attachments/assets/9ae3fc58-f206-4189-aace-9635ea711767"
+  width="400"
+  align="right"
+  />
+

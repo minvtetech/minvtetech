@@ -13,12 +13,11 @@ ${\textsf{\color{#d5b5c2}highly  inactive}}$
 
 <div align="center">
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=12&duration=4000&pause=500&color=7e7f9b&multiline=true&repeat=false&width=500&height=90&lines=Phantomduo+is+us+in+turth;/+on+this,/+there+is+no+dispute,+Lala." alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=4000&pause=500&color=7e7f9b&multiline=true&repeat=false&width=700&height=120&lines=You+dont+want+to+be%3B%0Aon+this%2C+there+is+no+dispute%2C+Lala." alt="Typing SVG" />
+</a>
 
 
-
-&nbsp;
-${\textsf{\color{#9aa9b0}You don’t want to become the villain of your own story.}}$
 
 <img
   src="https://github.com/user-attachments/assets/a26abcdc-efba-4007-bd18-674339d27e81"

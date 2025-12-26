@@ -10,17 +10,11 @@
   
 ${\textsf{\color{#d5b5c2}highly  inactive}}$
 
-
 &nbsp;
-
-
   
 ${\textsf{\color{#7e7f9b} Phantomduo is us in truth; on this, there is no dispute, Lala.}}$
 
-
 &nbsp;
-
-
 
 
 ${\textsf{\color{#9aa9b0}You don’t want to become the villain of your own story.}}$

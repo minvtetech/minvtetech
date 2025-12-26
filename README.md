@@ -11,7 +11,8 @@
 
 <div align="center">
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=12&duration=4000&pause=500&color=3f778d&multiline=true&repeat=false&width=400&height=99&lines=Y+inactive;sign+my+ata;i+adore+spoke+and+minutetech+gift+skin;w2i+c*h+enc!" alt="Typing SVG" /></a>
+  
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=4000&pause=500&color=3f778d&multiline=true&repeat=false&width=400&height=99&lines=You+dont+wanna;end+up+being;the+villain+of+your+own+story+. . ." alt="Typing SVG" /></a>
 
 
 ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ ㅤㅤㅤㅤㅤ  <img

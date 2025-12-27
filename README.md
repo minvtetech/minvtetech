@@ -8,7 +8,7 @@
 
 <div align="right">
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=13&duration=1500&pause=100&color=d4b4c1&multiline=true&repeat=false&width=400&height=99&lines=You+can't+be;the+villain;in+your+own+story+.+" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=13&duration=1500&pause=100&color=685685&multiline=true&repeat=false&width=400&height=99&lines=You+can't+be;the+villain;in+your+own+story+.+" alt="Typing SVG" /></a>
 
 
   

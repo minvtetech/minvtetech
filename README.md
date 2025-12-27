@@ -16,7 +16,7 @@
 ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ ㅤㅤㅤㅤㅤ  <img
  src="https://github.com/user-attachments/assets/9ae3fc58-f206-4189-aace-9635ea711767"
   width="420"
-  align="center"
+  align="right"
   />
 
 <p align="center">

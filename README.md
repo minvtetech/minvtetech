@@ -18,5 +18,8 @@
 
 <img width="420"  align="right" alt="Untitled50-20251224155842-2" src="https://github.com/user-attachments/assets/ec9b4ff4-624f-4175-add7-14823f63de6c" />
 
-<p align="right">hello [leow0ok!](https://github.com/leow0oks)! !(. ❛ ᴗ ❛.)　</p>
+
+<div align="right">
+  halo <a href="https://github.com/leow0oks">leow0ok(. ❛ ᴗ ❛.)</a>
+</div>
 

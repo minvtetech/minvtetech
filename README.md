@@ -17,6 +17,6 @@
   <a href=https://rentry.co/spokewasmika>rentry</a> ⠀⠀ <a href=https://pupmikaw.atabook.org>atabook</a> ⠀⠀ <a href=https://colormytree.me/2025/01KB9BBTH49K73HDS5M5P90EH8>tree </a>
 </p>
 
-<img width="3174" height="4096" align="right" alt="Untitled50-20251224155842-2" src="https://github.com/user-attachments/assets/ec9b4ff4-624f-4175-add7-14823f63de6c" />
+<img width="420"  align="right" alt="Untitled50-20251224155842-2" src="https://github.com/user-attachments/assets/ec9b4ff4-624f-4175-add7-14823f63de6c" />
 
 hello [leow0ok!](https://github.com/leow0oks).

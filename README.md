@@ -2,7 +2,7 @@
 
 ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ ㅤㅤㅤㅤㅤ  <img
   src="https://github.com/user-attachments/assets/1ed12efa-7acb-4dca-82fd-27d31a1fcc79"
-  width="300"
+  width="500"
   align="left"
   />
 

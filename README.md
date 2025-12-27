@@ -2,11 +2,11 @@
 
 ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ ㅤㅤㅤㅤㅤ  <img
   src="https://github.com/user-attachments/assets/1ed12efa-7acb-4dca-82fd-27d31a1fcc79"
-  width="500"
-  align="center"
+  width="300"
+  align="left"
   />
 
-<div align="center">
+<div align="right">
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=1500&pause=100&color=d4b4c1&multiline=true&repeat=false&width=400&height=99&lines=You+can't+be;the+villain;in+your+own+story+.+" alt="Typing SVG" /></a>
 

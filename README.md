@@ -20,5 +20,5 @@
 
 
 <p align="center">
-  <a href=https://rentry.co/spokewasmika>rentry</a> ⠀⠀ <a href=https://pupmikaw.atabook.org>atabook</a> ⠀⠀ <a href=https://colormytree.me/2025/01KB9BBTH49K73HDS5M5P90EH8>tree </a>
+  <a href=https://rentry.co/spokewasmika>rentry</a> ⠀⠀ <a href=https://pupmikaw.atabook.org>atabook</a> ⠀⠀ <a href=https://pupmikaw.straw.page>straw </a>
 </p>
